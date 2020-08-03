@@ -46,6 +46,9 @@ footer{
     left:0;
     background-color: black;
 }
+.geral{
+    display: flex;
+}
 .wrapper{
     margin: auto;
     text-align: center;
